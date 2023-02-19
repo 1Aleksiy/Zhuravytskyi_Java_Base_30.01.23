@@ -136,7 +136,7 @@ public class Main {
          else {
             System.out.println("Перемогла команда " + name2 + " набрала  - " + GPA2 + " очків");
       }
-        System.out.println();
+
 
 
     }
